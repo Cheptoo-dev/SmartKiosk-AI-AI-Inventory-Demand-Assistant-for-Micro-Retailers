@@ -1,4 +1,4 @@
-# SmartKiosk-AI-AI-Inventory-Demand-Assistant-for-Micro-RetailerS
+# SmartKiosk-AI-AI-Inventory-Demand-Assistant-for-Micro-Retailers
 
 A lightweight tool that helps kiosk owners update inventory using **Voice** or **USSD**, and receive **AI-powered reorder alerts** via SMS.
 
@@ -51,14 +51,4 @@ flowchart LR
     H -->|SMS Alert| I(Africa's Talking SMS)
     I --> A
 
-🧰 Tech Stack
-
-Africa’s Talking: Voice, USSD, SMS
-Google Cloud: Firestore, BigQuery, Cloud Run, Cloud Scheduler
-Vertex AI: Gemini 3 Flash (transcription + extraction)
-Backend: Python (FastAPI)
-Infra: Docker, ngrok for dev
-
-👩‍💻 Creator
-Cheptoo Faith – Agentic AI Builder
 
