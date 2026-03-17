@@ -1,3 +1,5 @@
+<img width="4032" height="1841" alt="Mermaid-preview" src="https://github.com/user-attachments/assets/a9e530cb-2e68-477f-aeee-a6c8854f7891" />
+<img width="3991" height="2268" alt="Mermaid-preview (1)" src="https://github.com/user-attachments/assets/90cda6cc-b196-4335-9aba-089a21962b44" />
 # SmartKiosk-AI-AI-Inventory-Demand-Assistant-for-Micro-Retailers
 
 A lightweight tool that helps kiosk owners update inventory using **Voice** or **USSD**, and receive **AI-powered reorder alerts** via SMS.
